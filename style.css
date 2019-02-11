@@ -1,3 +1,27 @@
 img {
+  display: inline;
+  float: left;
   width: 100px;
+}
+
+body {
+  background-color: Ivory;
+  color: DarkBlue;
+  font-family: Open Sans;
+  margin: 10px 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Oswald;
+}
+
+.browser {
+  float: left;
+  width: 300px;
+}
+
+
+nav > span {
+  float: left;
+  width: 25%;
 }
